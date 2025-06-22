@@ -1,0 +1,8 @@
+/home/mnck/Téléchargements/Master/M1S2/Web_Services/person/personBackend/src/main/java/m1/uasz/sn/controller/PersonController.java
+/home/mnck/Téléchargements/Master/M1S2/Web_Services/person/personBackend/src/main/java/m1/uasz/sn/model/Person.java
+/home/mnck/Téléchargements/Master/M1S2/Web_Services/person/personBackend/src/main/java/m1/uasz/sn/config/WebMvcConfig.java
+/home/mnck/Téléchargements/Master/M1S2/Web_Services/person/personBackend/src/main/java/m1/uasz/sn/repository/PersonRepository.java
+/home/mnck/Téléchargements/Master/M1S2/Web_Services/person/personBackend/src/main/java/m1/uasz/sn/service/PersonService.java
+/home/mnck/Téléchargements/Master/M1S2/Web_Services/person/personBackend/src/main/java/m1/uasz/sn/config/SecurityConfig.java
+/home/mnck/Téléchargements/Master/M1S2/Web_Services/person/personBackend/src/main/java/m1/uasz/sn/service/impl/PersonServiceImpl.java
+/home/mnck/Téléchargements/Master/M1S2/Web_Services/person/personBackend/src/main/java/m1/uasz/sn/PersonApplication.java
